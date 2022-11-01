@@ -1,6 +1,6 @@
-# simple-cloud-native-app
-[![ci](https://github.com/atrakic/simple-cloud-native-app/actions/workflows/ci.yml/badge.svg)](https://github.com/atrakic/simple-cloud-native-app/actions/workflows/ci.yml)
-[![release](https://github.com/atrakic/simple-cloud-native-app/actions/workflows/release.yml/badge.svg)](https://github.com/atrakic/simple-cloud-native-app/actions/workflows/release.yml)
+# flask-cloud-native-app-demo
+[![ci](https://github.com/atrakic/flask-cloud-native-app-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/atrakic/flask-cloud-native-app-demo/actions/workflows/ci.yml)
+[![release](https://github.com/atrakic/flask-cloud-native-app-demo/actions/workflows/release.yml/badge.svg)](https://github.com/atrakic/flask-cloud-native-app-demo/actions/workflows/release.yml)
 
 A sample repository with as-simple-as-possible demonstration of running and deploying cloud native (Flask) app on kubernetes.
 ![Kubernetes app](docs/img/flask_app_with_3_replicas.png)
